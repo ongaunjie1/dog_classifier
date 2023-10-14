@@ -1,4 +1,4 @@
-# Dog Classifier App
+# Dog Classifier App (trained using PyTorch)
 
 # Important Note
 * Pre-trained model used was EfficientNet_B0 (model pre-trained on ImageNet dataset) : https://github.com/lukemelas/EfficientNet-PyTorch

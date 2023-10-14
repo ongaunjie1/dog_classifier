@@ -15,7 +15,7 @@
 * Experiment with different pre-trained image classifier models such as ResNET
 
 # Link to app
-* https://dogclassifier-efficientnet.streamlit.app/https://dogclassifier-efficientnet.streamlit.app/
+* https://dogclassifier-efficientnet.streamlit.app/
 
 
 
